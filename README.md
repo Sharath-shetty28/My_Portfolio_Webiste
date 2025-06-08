@@ -24,9 +24,11 @@ A modern and responsive portfolio website built with **React.js**, **Tailwind CS
 
 ---
 
-## Screenshot
+## Screenshot 
 
 ![Screenshot 2025-06-08 183945](https://github.com/user-attachments/assets/406d4e0e-1914-4e85-9024-7729baac9db7)
+![image](https://github.com/user-attachments/assets/441cf289-e133-4295-8156-ea8cd39d10aa)
+
 ![image](https://github.com/user-attachments/assets/a69049a7-9f7f-4c4c-a5b3-c7c6da816d1a)
 ![Screenshot 2025-06-08 184044](https://github.com/user-attachments/assets/452a37aa-d3b0-4786-9ee6-7051e044ab10)
 
