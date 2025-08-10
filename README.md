@@ -5,7 +5,7 @@ A modern and responsive portfolio website built with **React.js**, **Tailwind CS
 ---
 
 
-## Live Demo : https://sharath-shetty.vercel.app/
+## Live Demo : https://sharathshetty.vercel.app/
 ---
 
 ## Features
